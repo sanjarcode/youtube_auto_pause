@@ -1,5 +1,5 @@
 {
-    "name": "Youtube Auto Pause",
+    "name": "Sanjar's Youtube Auto Pause",
     "version": "1.4.0",
     "description": "Stops Youtube on tab unfocus and continues on focus",
     "permissions": [
@@ -15,7 +15,7 @@
         "https://*.netflix.com/watch/*",
         "https://*.youtubekids.com/*"
     ],
-    "homepage_url": "https://github.com/drodil/youtube_auto_pause",
+    "homepage_url": "https://github.com/sanjarcode/youtube_auto_pause",
     "options_ui": {
         "page": "options.html",
         "open_in_tab": false
